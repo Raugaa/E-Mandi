@@ -1,4 +1,4 @@
-#E-Mandi: A Direct Farmer-to-Buyer Marketplace
+E-Mandi: A Direct Farmer-to-Buyer Marketplace
 Getting Started
 Follow the steps below to set up and run the E-Mandi project.
 

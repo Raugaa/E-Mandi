@@ -1,14 +1,26 @@
-# E-Mandi
+#E-Mandi: A Direct Farmer-to-Buyer Marketplace
+Getting Started
+Follow the steps below to set up and run the E-Mandi project.
 
-As a first step 
-download the imp libraries to do that run the coomand: npm i
+1. Install Dependencies
+Ensure you have all the necessary libraries installed before starting the application. Run the following command in your terminal:
+npm install
 
-then go to E-mandi Folder by running this coomand: cd E-mandi
+2.Navigate to the Project Directory
+Move to the E-Mandi project folder:
+cd E-mandi
 
-then go to fronend folder : cd Frontend
-then run the command: npm start
+3. Start the Frontend
+Now, navigate to the frontend folder:
+cd Frontend
+To start the frontend server, run:
+npm start
 
-at the same time open slpit terminal and go to backened folder : cd Backend
-then run the command: npm start
+4. Start the Backend
+Open a new terminal or split your terminal, then navigate to the backend folder:
+cd Backend
+Start the backend server by running:
+npm start
 
-then on the frontend terminal a server will be sarted to go the the web page press CTRL+CLICK
+5. Access the Application
+Once the frontend server starts, a local development server will be launched. To access the E-Mandi platform, press CTRL + CLICK on the provided link in the terminal, or open the link in your browser.

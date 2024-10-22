@@ -43,17 +43,25 @@ Ensure that you have the following installed on your system:
    git clone https://github.com/yourusername/e-mandi.git
 
 git clone https://github.com/yourusername/e-mandi.git
-Navigate to the project directory:
-cd e-mandi
-Install dependencies for both frontend and backend:
-npm install
-Usage
-Starting the Frontend: Navigate to the frontend directory and start the frontend server:
-cd Frontend
-npm start
-Starting the Backend: Open a new terminal window and navigate to the backend directory:
-cd Backend
-npm start
+### Navigate to the project directory:
+2. ** Navigate to the project directory**:
+   ```bash
+   cd e-mandi
+
+### Install dependencies for both frontend and backend:
+3. **Install dependencies for both frontend and backend**:
+   ```bash
+   npm install
+###Usage
+ 1. **Starting the Frontend: Navigate to the frontend directory and start the frontend server**:
+    ```bash
+    cd Frontend
+    npm strat
+    
+2. **Starting the Backend: Open a new terminal window and navigate to the backend directory**:
+   ```bash
+   cd Backend
+   npm start
 The backend API will be running on http://localhost:7000.
 
 Database Setup: Make sure MongoDB is running. You can either use a local MongoDB instance or connect to MongoDB Atlas for cloud hosting.
